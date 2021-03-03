@@ -1,0 +1,1 @@
+alert("This webpage was developed by a programming student during a front-end bootcamp, and it is a visual clone of the Netflix home page. To visit the real Netflix website, access https://www.netflix.com/");
